@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LARY.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f80d808fb0fb2e8f07c272c8bbb07598cad3e61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7021db34f482a33c2ffd131efe9250a17415b80")]
 [assembly: System.Reflection.AssemblyProductAttribute("LARY.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LARY.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
