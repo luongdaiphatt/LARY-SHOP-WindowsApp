@@ -5,6 +5,10 @@ VisualStudioVersion = 17.14.36511.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LARY.App", "LARY_POS\LARY.App.csproj", "{22F5B3C7-B23C-4680-A8B7-11AC49B33A76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LARY.Connection", "LARY.Connection\LARY.Connection.csproj", "{4A877474-3FE3-47FB-A454-C182E5CDC9E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LARY.Entity", "LARY.Entity\LARY.Entity.csproj", "{BA323D12-745F-46C7-AB90-052886C66B59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{22F5B3C7-B23C-4680-A8B7-11AC49B33A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22F5B3C7-B23C-4680-A8B7-11AC49B33A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22F5B3C7-B23C-4680-A8B7-11AC49B33A76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A877474-3FE3-47FB-A454-C182E5CDC9E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A877474-3FE3-47FB-A454-C182E5CDC9E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A877474-3FE3-47FB-A454-C182E5CDC9E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A877474-3FE3-47FB-A454-C182E5CDC9E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA323D12-745F-46C7-AB90-052886C66B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA323D12-745F-46C7-AB90-052886C66B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA323D12-745F-46C7-AB90-052886C66B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA323D12-745F-46C7-AB90-052886C66B59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
